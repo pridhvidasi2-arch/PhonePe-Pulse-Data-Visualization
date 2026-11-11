@@ -28,6 +28,25 @@ An interactive Power BI dashboard designed to analyze PhonePe digital payment tr
 - Interactive slicers and KPI cards
 - Geographical visualization of payment activity
 
+  ## Key Business Insights
+
+1. **Transaction Volume:** The dashboard reports approximately 71.72 billion total transactions across the dataset.
+2. **Payment Preferences:** Merchant payments lead the payment-type chart at approximately ₹33.1 billion, followed by peer-to-peer payments at ₹29.1 billion.
+3. **Top Performing States:** Maharashtra leads the state-wise transaction amount chart at approximately ₹10.4 billion, followed by Karnataka (₹9.6 billion) and Telangana (₹9.1 billion).
+4. **Regional Performance:** Andhra Pradesh records approximately ₹5.3 billion in transaction amount, while Rajasthan records approximately ₹5.1 billion.
+5. **Mobile Brand Adoption:** Xiaomi, Samsung, and Vivo are among the leading mobile brands in the registered-user chart.
+6. **Quarterly Trends:** The dashboard compares transaction activity across quarterly periods from 2018 to 2022.
+
+## Skills Demonstrated
+
+- Data Cleaning and Transformation
+- Data Modeling and Relationships
+- DAX Measures and KPI Development
+- Interactive Dashboard Design
+- Time-Series Analysis
+- Geographical Data Visualization
+- Business Insight Generation
+
 ## Project File
 The Power BI dashboard is available here:
 
